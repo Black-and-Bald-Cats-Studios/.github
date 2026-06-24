@@ -1,17 +1,17 @@
 <h1 align="center">Black and Bald Cats Studios 🐱</h1>
 
 <p align="center">
-  <em>Estudio indie de videojuegos · tropicalizados, hechos en Colombia</em> 🇨🇴🎮
+  <em>Estudio independiente de videojuegos</em>
 </p>
 
 ---
 
 ### 🎮 Qué hacemos
-Juegos para jugar con amigos. Hechos con [Godot](https://godotengine.org/). Con sabor colombiano: lugares que reconoces, humor que entiendes.
+Creamos juegos para disfrutar con amigos y con el mundo.
 
 ### 🚧 En construcción
-Nuestro primer juego — *próximamente en Steam*. 🐾
+Varios proyectos en desarrollo — *próximamente en Steam*. 🐾
 
 <p align="center">
-  <sub>Hecho con 🐱 y café en Colombia</sub>
+  <sub>Hecho con 🐱</sub>
 </p>
